@@ -1,0 +1,1 @@
+Scripts Powershell para inicializar ou parar uma maquina no Azure autenticando via usuario de automação.
